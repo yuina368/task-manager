@@ -1,18 +1,10 @@
-# task-manager
-タスク管理ポートフォリオ
+#mining-website
+Hello! Welcome to this README! 私のREADNEへようこそ！
+This is one of the portfolio　これは私のポートフォリオです。
 
-技術スタック : 
- -Ruby
- -SQLite
- -TailwindCSS
+#converstatiom 
+This code use ...
+Ruby,MeCab,Selenium,Nokogiri
+This code can sarch Website,and Text Mining
 
-機能 : 
- -タスク追加、削除
- -完了でのチェック
- -日付ソート
-
- 進捗 :
- []リポジトリ作成
- []基本設計
- []実装開始
-
+#
